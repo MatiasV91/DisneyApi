@@ -6,7 +6,7 @@ Registro con envio de mail de bienvenida, autentificación con token, y patron r
 
 Para recrear la base de datos ejectutar el comando "update-database" en package manager console de Visual Studio
 
-o "dotnet ef database update" en la carpeta del proyecto en CMD
+o "dotnet ef database update" en la carpeta del proyecto DisneyApi en CMD
 
 
 ![swagger](https://github.com/MatiasV91/DisneyApi/blob/master/github/swagger.png)
